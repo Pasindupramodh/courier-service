@@ -1,0 +1,40 @@
+.btn-margin {
+    margin-right: 5px;
+}
+
+#male,
+#female {
+    accent-color: red;
+}
+/* 
+.uppercase {
+    text-transform: uppercase !important;
+    color: #5C9ACF;
+    font-weight: bold;
+    font-size: 18px;
+} */
+/* 
+h3 {
+    font-size: 24px;
+    color: #5C9ACF;
+} */
+.table-text thead tr th{
+    font-size: 13px;
+    text-align: center;
+}
+
+table.table-text tr td { font-size: 13px; }
+
+table.table-text, table.table-text tr td, table.table-text tr th {
+    border: 1px dotted ;
+    border-color: gray;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  .table-responsive {
+    overflow-x: auto;
+    min-height: .01%;
+  }
